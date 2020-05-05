@@ -1,0 +1,19 @@
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\bin\Debug\Projet_1_Mode_Deconnecte.exe.config
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\bin\Debug\Projet_1_Mode_Deconnecte.exe
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\bin\Debug\Projet_1_Mode_Deconnecte.pdb
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.Form1.resources
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.Properties.Resources.resources
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.csproj.GenerateResource.Cache
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.exe
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.pdb
+c:\users\aziz\documents\visual studio 2017\Projects\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\bin\Debug\Projet_1_Mode_Deconnecte.exe.config
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\bin\Debug\Projet_1_Mode_Deconnecte.exe
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\bin\Debug\Projet_1_Mode_Deconnecte.pdb
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.csprojAssemblyReference.cache
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.Form1.resources
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.Properties.Resources.resources
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.csproj.GenerateResource.cache
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.exe
+C:\Users\Aziz\source\repos\TP_1_AZIZ_HISSI_TDI201\Projet_1_Mode_Deconnecte\Projet_1_Mode_Deconnecte\obj\Debug\Projet_1_Mode_Deconnecte.pdb
